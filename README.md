@@ -28,6 +28,7 @@ I'm a passionate developer who loves building full-stack applications and tinker
 - 🪟 **WM:** DWM (Dynamic Window Manager)
 - 💾 **Terminal:** st (simple terminal)
 - 📊 **Status Bar:** dwmblocks-async ([check out my config](https://github.com/markchristianlacap?tab=repositories))
+- ✏️ **Editor:** Neovim - Custom config with self-built plugins
 
 ### 🎯 Current Interests
 
@@ -52,6 +53,8 @@ My daily driver is a carefully crafted Arch Linux system with a minimal and effi
 - **WM**: [DWM](https://dwm.suckless.org/) - Because less is more
 - **Terminal**: [st](https://st.suckless.org/) - Simple terminal that just works
 - **Status Bar**: [dwmblocks-async](https://github.com/markchristianlacap?tab=repositories) - Asynchronous status blocks
+- **Editor**: [Neovim](https://neovim.io/) - Crafted my own configuration from scratch, including custom plugins
+- **Dotfiles**: All my configurations are available in [my dotfiles repository](https://github.com/markchristianlacap?tab=repositories)
 - **Philosophy**: Minimalism, efficiency, and full control
 
 ### 🔧 Technologies & Tools
@@ -63,6 +66,7 @@ My daily driver is a carefully crafted Arch Linux system with a minimal and effi
   <img src="https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white" alt="TypeScript" />
   <img src="https://img.shields.io/badge/.NET-512BD4?style=for-the-badge&logo=dotnet&logoColor=white" alt=".NET" />
   <img src="https://img.shields.io/badge/Arch_Linux-1793D1?style=for-the-badge&logo=arch-linux&logoColor=white" alt="Arch Linux" />
+  <img src="https://img.shields.io/badge/Neovim-57A143?style=for-the-badge&logo=neovim&logoColor=white" alt="Neovim" />
   <img src="https://img.shields.io/badge/pfSense-212121?style=for-the-badge&logo=pfsense&logoColor=white" alt="pfSense" />
 </p>
 
@@ -82,7 +86,10 @@ My daily driver is a carefully crafted Arch Linux system with a minimal and effi
 
 ### 🌟 Featured Projects
 
-Check out my repositories to see my DWM, st, and dwmblocks-async configurations, along with various web development projects!
+Check out my repositories to see:
+- 🎨 **[Dotfiles](https://github.com/markchristianlacap?tab=repositories)** - My complete system configuration including DWM, st, and dwmblocks-async
+- ✏️ **[Neovim Config](https://github.com/markchristianlacap?tab=repositories)** - Custom Neovim setup with self-built plugins
+- 🌐 Various web development projects using Laravel, Vue, and more!
 
 ### 💡 What I'm Up To
 
