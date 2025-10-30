@@ -21,7 +21,7 @@ I'm a passionate developer who loves building full-stack applications and tinker
 **Languages & Frameworks:**
 - 🔧 **Backend:** Laravel, .NET
 - ⚡ **Frontend:** Vue.js, Nuxt.js, TypeScript
-- 🎨 **Styling:** Modern CSS, Tailwind CSS
+- 🎨 **Styling:** Unocss, Tailwind CSS, Quasar and Nuxt UI
 
 **Development Environment:**
 - 🐧 **OS:** Arch Linux (BTW)
@@ -54,7 +54,7 @@ My daily driver is a carefully crafted Arch Linux system with a minimal and effi
 - **Terminal**: [st](https://st.suckless.org/) - Simple terminal that just works
 - **Status Bar**: [dwmblocks-async](https://github.com/markchristianlacap?tab=repositories) - Asynchronous status blocks
 - **Editor**: [Neovim](https://neovim.io/) - Crafted my own configuration from scratch, including custom plugins
-- **Dotfiles**: All my configurations are available in [my dotfiles repository](https://github.com/markchristianlacap?tab=repositories)
+- **Dotfiles**: All my configurations are available in [my dotfiles repository](https://github.com/markchristianlacap/dotfiles)
 - **Philosophy**: Minimalism, efficiency, and full control
 
 ### 🔧 Technologies & Tools
@@ -87,13 +87,17 @@ My daily driver is a carefully crafted Arch Linux system with a minimal and effi
 ### 🌟 Featured Projects
 
 Check out my repositories to see:
-- 🎨 **[Dotfiles](https://github.com/markchristianlacap?tab=repositories)** - My complete system configuration including DWM, st, and dwmblocks-async
-- ✏️ **[Neovim Config](https://github.com/markchristianlacap?tab=repositories)** - Custom Neovim setup with self-built plugins
-- 🌐 Various web development projects using Laravel, Vue, and more!
+- [Nuxt Net Monitoring](https://github.com/markchristianlacap/nuxt-net-monitoring) - Monitor your network with Nuxt.js and pfSense
+- [csharp-namespace.nvim](https://github.com/markchristianlacap/csharp-namespace.nvim) - Neovim plugin for C# namespaces
+- [cs-to-ts](https://github.com/markchristianlacap/cs-to-ts) - Convert C# to TypeScript in neovim
+- [Dotfiles](https://github.com/markchristianlacap/dotfiles) - My personal dotfiles repository
+- [DWM](https://github.com/markchristianlacap/dwm) - My personal DWM repository
+- [dwmblocks-async](https://github.com/markchristianlacap/dwmblocks-async) - My personal dwmblocks-async repository
+- [st](https://github.com/markchristianlacap/st) - My personal st repository
 
 ### 💡 What I'm Up To
 
-- 🔨 Building full-stack applications with Laravel & Vue
+- 🔨 Building full-stack applications with Dotnet, Laravel, Vue, Nuxt, and TypeScript
 - 🎨 Perfecting my Linux rice
 - 🌐 Experimenting with network configurations
 - 📚 Exploring new technologies and best practices
