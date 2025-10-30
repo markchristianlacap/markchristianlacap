@@ -107,7 +107,3 @@ Check out my repositories to see:
 Feel free to explore my repositories and reach out if you want to collaborate on interesting projects!
 
 ---
-
-<p align="center">
-  <em>"The best code is no code at all, but when you have to write it, make it elegant."</em>
-</p>
